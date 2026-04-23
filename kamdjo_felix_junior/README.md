@@ -86,4 +86,4 @@ make clean-all
 ```
 
 ## Auteur
-- Felix Kamdjo, Travaux réalisés dans le cadre d'un apprentissage du langage Rust et des concepts systèmes associés.
+- Felix Kamdjo
