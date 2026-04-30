@@ -1,0 +1,6 @@
+[package]
+name = "analyse_de_chaine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
