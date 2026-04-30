@@ -1,0 +1,1 @@
+/home/nourka/Documents/enspd/programmation\ system/TP_1_-_4-/EBOA\ EPEE\ STYVE\ AURELIEN/tp1_calculatrice/target/debug/mon_projet: /home/nourka/Documents/enspd/programmation\ system/TP_1_-_4-/EBOA\ EPEE\ STYVE\ AURELIEN/tp1_calculatrice/src/main.rs
